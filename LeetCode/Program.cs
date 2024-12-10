@@ -13,4 +13,7 @@ using LeetCode;
 //     Console.WriteLine(VARIABLE);
 // }
 
-Console.WriteLine(Sqrt_x_.Sqrt(2147395599));
+//Console.WriteLine(Sqrt_x_.Sqrt(2147395599));
+
+//Console.WriteLine(Climbing_Stairs.ClimbingStairs(4));
+Console.WriteLine(Fibbonaci.Fib(30));
